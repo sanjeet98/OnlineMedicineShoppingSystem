@@ -1,0 +1,20 @@
+/**
+ * @author [Sanjeet Kaul]
+ * @email [kaulsanjeet2gmail.com]
+ * @create date 2021-04-27 18:40:03
+ * @modify date 2021-04-27 18:40:03
+ * @desc [Group Project of Online Medicine Shopping System]
+ */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
