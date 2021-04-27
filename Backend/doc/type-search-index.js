@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.medicineshopping.demo.entity","l":"ProductManagement"}];updateSearchResults();
