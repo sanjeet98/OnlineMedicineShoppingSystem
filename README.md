@@ -1,7 +1,7 @@
 ## Online Medicine Shopping System
 
 1. Technology Used:
-   - Spring Tool Suite, PostgreSQL, React, Postman
+   - Spring Boot, PostgreSQL, React, Postman
    
 2. Language Used:
    - Core Java
