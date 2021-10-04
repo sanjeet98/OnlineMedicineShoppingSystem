@@ -1,6 +1,6 @@
 /**
  * @author [Sanjeet Kaul]
- * @email [kaulsanjeet2gmail.com]
+ * @email [kaulsanjeet@gmail.com]
  * @create date 2021-04-27 18:40:03
  * @modify date 2021-04-27 18:40:03
  * @desc [Group Project of Online Medicine Shopping System]
